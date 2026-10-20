@@ -1,0 +1,7 @@
+# Session bundles and backups contain full conversation transcripts. Never commit them.
+.claude-session-bundle/
+session-sync-backup/
+.backup/
+manifest.json
+*.jsonl
+local_*.json
